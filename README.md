@@ -72,8 +72,9 @@ chmod +x run_pipeline.sh
 
 # 2. Forward custom CLI flags directly through run_pipeline.sh
 ./run_pipeline.sh --input data/17k_Ovarian_Cancer_scFFPE_count_filtered_feature_bc_matrix.h5 --resolution 0.4
-./run_pipeline.sh --input data/10k_Human_Brain_MO_gemx_raw_feature_bc_matrix/raw_feature_bc_matrix/ --genes EGFR MAP2 NRXN1
+./run_pipeline.sh --input data/10k_Human_Brain_MO_gemx_raw_feature_bc_matrix/raw_feature_bc_matrix/ --genes EGFR PTPRZ1 NRXN1
 ./run_pipeline.sh --input data/donor1.h5 --donor2 data/donor2.h5
+./run_pipeline.sh --input data/Visium_HD_11mm_Human_Breast_Cancer_barcode_mappings.parquet --celltypist-model Cells_Adult_Breast.pkl
 ```
 
 ### Direct Python CLI (`python main.py`)
