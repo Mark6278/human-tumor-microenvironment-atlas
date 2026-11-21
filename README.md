@@ -17,7 +17,7 @@ The pipeline features a **universal auto-detecting loader** (`.h5`, `.h5ad`, `.h
 
 ## Visualizations
 
-### 1. 10x Human Brain Multiome — Clusters, Cell Types & Marker Genes (`EGFR`, `MAP2`, `NRXN1`)
+### 1. 10x Human Brain Multiome — Clusters, Cell Types & Marker Genes (`EGFR`, `PTRPZ1`, `NRXN1`)
 ![Human Brain Multiome UMAP](figures/10k_Human_Brain_MO_gemx/gene_expression_umap_genes.png)
 
 ### 2. Multi-Donor Cohort Integration — Before vs. After ComBat & CellTypist Annotation
