@@ -1,0 +1,15 @@
+
+data/
+*.h5
+*.h5ad
+*.h5mu
+*.parquet
+*.tif
+*.tiff
+*.mtx
+*.mtx.gz
+*.tar.gz
+*.zip
+__pycache__/
+*.pyc
+.DS_Store

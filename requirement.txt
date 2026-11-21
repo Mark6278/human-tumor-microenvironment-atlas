@@ -1,0 +1,16 @@
+scanpy
+squidpy
+mudata
+anndata
+liana
+celltypist
+scikit-learn
+scikit-image
+scipy
+pandas
+numpy
+matplotlib
+pyarrow
+tifffile
+igraph
+leidenalg
